@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Vân à!',
-    introDesc: ` Xin  cậu vì tất cả
+    introDesc: ` Xin lỗi cậu vì tất cả
     Hãy vui lên, tích cực lên
     Cuộc đời còn dài còn đẹp lắm <3
     Hãy zui lên nhé hé hé'
