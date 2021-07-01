@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Vân à!',
-    introDesc: `Xinlỗi cậu vì tấtcả
+    introDesc: `Xin lỗi cậu vì tất cả
     Hãy vui lên, tích cực lên
     Cuộc đời còn dài còn đẹp lắm <3
     Hãy zui lên nhé hé hé'
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Lúc nào chả đáng yêu <3 ',
     mess: 'Cố lên nhé 🥰. Chắc chắn sẽ thành công 😘😘',
-    messDesc: 'Tha thứ cho mình nhé ^_^ ',
+    messDesc: 'Tha thứ cho  nhé ^_^ ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //https://www.facebook.com/messages/t/100011391633370.'
 }
